@@ -125,7 +125,7 @@ function mouseReleased(){
 
 function keyPressed(){
 
- if(keyCode===0){
+ if(keyCode===32){
    slingShot.attach(this,polygon)
  }
 }
